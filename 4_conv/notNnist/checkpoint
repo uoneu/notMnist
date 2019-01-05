@@ -1,0 +1,5 @@
+model_checkpoint_path: "model-5601"
+all_model_checkpoint_paths: "model-5301"
+all_model_checkpoint_paths: "model-5401"
+all_model_checkpoint_paths: "model-5501"
+all_model_checkpoint_paths: "model-5601"
